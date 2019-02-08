@@ -1,5 +1,0 @@
-///<'USMilBlockUnits.pbo' properties via Mikero's dos tools, dll version 6.44>///
-prefix=USMilBlockUnits
-//Pbo Type is: Arma Addon
-//Sha: '870ADC7C650157DB2F73E3443C3FAE4B4A6291C1'
-//////</properties>//////
