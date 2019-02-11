@@ -21,8 +21,8 @@ class cfgVehicles {
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
-			linkedItems[] = {"usm_bdu_cap_wdl","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
-		respawnLinkedItems[] = {"usm_bdu_cap_wdl","ItemMap","ItemCompass","ItemWatch","ItemRadio"};
+			linkedItems[] = {"ItemMap","ItemCompass","ItemWatch","ItemRadio"};
+		respawnLinkedItems[] = {"ItemMap","ItemCompass","ItemWatch","ItemRadio"};
 	};
 
 		class usm_soldier_90s_w_h_off:usm_soldier
@@ -30,8 +30,8 @@ class cfgVehicles {
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};
+			Items[] = {};
+			RespawnItems[] = {};
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -42,8 +42,8 @@ class cfgVehicles {
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};
+			Items[] = {};
+			RespawnItems[] = {};
 			magazines[] = {};
 			respawnMagazines[] = {};
 						
@@ -54,8 +54,8 @@ class cfgVehicles {
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};		
+			Items[] = {};
+			RespawnItems[] = {};		
 magazines[] = {};
 			respawnMagazines[] = {};
 						
@@ -66,8 +66,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -78,8 +78,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -90,8 +90,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -102,8 +102,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -114,8 +114,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -126,8 +126,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -138,8 +138,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -150,8 +150,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -162,8 +162,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -174,8 +174,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -186,8 +186,8 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
@@ -198,12 +198,22 @@ magazines[] = {};
 			scope = 0;
 			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
-			Items[] = {"usm_bdu_cap_wdl"};
-			RespawnItems[] = {"usm_bdu_cap_wdl"};				
+			Items[] = {};
+			RespawnItems[] = {};				
 			magazines[] = {};
 			respawnMagazines[] = {};
 			
 		};
+	class usm_soldier_90s_d: usm_base_w
+	{
+		scope = 0;
+			weapons[] = {"Throw","Put"};
+			respawnWeapons[] = {"Throw","Put"};
+			Items[] = {""};
+			RespawnItems[] = {""};
+			linkedItems[] = {"ItemMap","ItemCompass","ItemWatch","ItemRadio"};
+		respawnLinkedItems[] = {"ItemMap","ItemCompass","ItemWatch","ItemRadio"};
+	};
 	};
 
 
