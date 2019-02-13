@@ -1,0 +1,7 @@
+///<'USMilPatch.pbo' properties via Mikero's dos tools, dll version 6.44>///
+prefix=USMilPatch
+Mikero=DePbo.dll.6.44
+version=19021313
+//Pbo Type is: Arma Addon
+//Sha: '918BD96B9677DAA89AFDEA666FE0BEB1B66CFF68'
+//////</properties>//////
