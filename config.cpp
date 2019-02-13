@@ -1328,7 +1328,7 @@ class usm_soldier_90s_w_l_off: usm_soldier
 	class usm_ranger_90s_d: usm_base_w
 	{
 		scope = 0;
-			weapons[] = {"Throw","Put","usm_ranger_90s_d"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
@@ -1742,7 +1742,7 @@ class usm_ranger_90s_d_h_mgab: usm_ranger_90s_d
 	class usm_airman_w: usm_base_w
 	{
 		scope = 0;
-			weapons[] = {"Throw","Put","usm_airman_w"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
