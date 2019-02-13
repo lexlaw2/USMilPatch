@@ -55,7 +55,7 @@ class cfgVehicles {
 		
 		
 	
-	#include "CfgWeapons.hpp"
+	
 	};
 
-
+#include "CfgWeapons.hpp"
