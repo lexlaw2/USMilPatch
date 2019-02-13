@@ -58,5 +58,8 @@ class cfgVehicles {
 	
 	
 	};
-
-#include "CfgWeapons.hpp"
+class CfgWeapons
+{
+#include "usm_Weapons.hpp"
+#include "usm_armor.hpp"
+};

@@ -1,5 +1,4 @@
-class CfgWeapons
-	{
+
 		class ItemCore;
 		class usm_bugrepellant: ItemCore
 		{
@@ -65,4 +64,5 @@ class CfgWeapons
 		{
 			scope = 0;
 		};
-	};
+		
+
