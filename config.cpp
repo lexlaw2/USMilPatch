@@ -243,7 +243,7 @@ magazines[] = {};
 	class usm_soldier_90s_d: usm_base_w
 	{
 		scope = 0;
-			weapons[] = {"Throw","Put","lexlaw_usm_soldier_90s_d"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
@@ -785,7 +785,7 @@ class usm_soldier_90s_w_l_off: usm_soldier
 		class usm_soldier_80s_d: usm_base_w
 	{
 		scope = 0;
-			weapons[] = {"Throw","Put","lexlaw_usm_soldier_80s_d"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
@@ -1135,7 +1135,17 @@ class usm_soldier_90s_w_l_off: usm_soldier
 			
 		};
 		
-
+			class usm_soldier_80s_d_l_ar: usm_soldier_80s_d
+			{
+			scope = 0;
+			weapons[] = {"Throw","Put"};
+			respawnWeapons[] = {"Throw","Put"};
+			Items[] = {};
+			RespawnItems[] = {};				
+			magazines[] = {};
+			respawnMagazines[] = {};
+			
+		};
 
 
 
@@ -1174,7 +1184,7 @@ class usm_soldier_90s_w_l_off: usm_soldier
 			class usm_ranger: usm_base_w
 	{
 		scope = 0;
-			weapons[] = {"Throw","Put","lexlaw_usm_ranger"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
@@ -1803,7 +1813,7 @@ class usm_ranger_90s_d_h_mgab: usm_ranger_90s_d
 		class usm_marine: usm_base_w
 		{
 		scope = 0;
-			weapons[] = {"Throw","Put","lexlaw_usm_marine"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
@@ -2005,7 +2015,7 @@ class usm_ranger_90s_d_h_mgab: usm_ranger_90s_d
 		class usm_marine_90s_d: usm_base_w
 		{
 		scope = 0;
-			weapons[] = {"Throw","Put","lexlaw_usm_marine_90s_d"};
+			weapons[] = {"Throw","Put"};
 			respawnWeapons[] = {"Throw","Put"};
 			Items[] = {""};
 			RespawnItems[] = {""};
