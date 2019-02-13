@@ -38,13 +38,14 @@ class CfgPatches{
 	
 };
 #include "CfgXClasses.hpp"
+#include "CfgMagazines.hpp"
 class cfgVehicles {
 	class usm_base_w;
 	#include "usm_soldier_90s.hpp"
 		
 	#include "usm_soldier_80s.hpp"	
 
-#include "usm_ranger.hpp"
+	#include "usm_ranger.hpp"
 
 		
 
