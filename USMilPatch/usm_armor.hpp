@@ -1,5 +1,7 @@
 // class HeadgearItem;
 // class VestItem;
+
+
 // class usm_bdu_cap_wdl: ItemCore
 	// {
 		

@@ -1,6 +1,6 @@
 class CfgPatches{
 
-	class clsBlockUSMilUnits
+	class USMilPatch
 	{
 		units[]={"usm_soldier","sm_soldier_90s_w_h_off","usm_soldier_90s_w_h_nco","usm_soldier_90s_w_h_ftl","usm_soldier_90s_w_h_gr","usm_soldier_90s_w_h_ar","usm_soldier_90s_w_h_at4","usm_soldier_90s_w_h_medic",
 		"usm_soldier_90s_w_h_rto","usm_soldier_90s_w_h_rm1","usm_soldier_90s_w_h_mg","usm_soldier_90s_w_h_amg","usm_soldier_90s_w_h_mgab","usm_soldier_90s_w_h_jav","usm_soldier_90s_w_h_ajav","usm_soldier_90s_w_h_aa","usm_soldier_90s_w_h_crew1","usm_soldier_90s_d_h_off",
@@ -61,5 +61,6 @@ class cfgVehicles {
 class CfgWeapons
 {
 #include "usm_Weapons.hpp"
+#include "usm_uniform.hpp"
 #include "usm_armor.hpp"
 };
