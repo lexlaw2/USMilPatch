@@ -1,15 +1,9 @@
-class usm_bdu_wdl;
+
 class usm_bdu_dcu: usm_bdu_wdl
 	{
-		author = "Delta Hawk";
-		displayName = "BDUs, trousers/blouse, DCU";
-		picture = "\us_military_uniforms\icons\pic_bdu_dcu_ca.paa";
-		hiddenSelectionsTextures[] = {"us_military_uniforms\textures\uniform_bdu_dcu_co.paa"};
-		class itemInfo;
-		class ItemInfo: ItemInfo
-		{
-			uniformClass = "usm_bdu_dcu";
-		};
+		
+		model = "\us_military_uniforms\usm_bdusuitpack.p3d";
+		
 	};
 	// class usm_bdu_dcu_m: usm_bdu_wdl
 	// {
@@ -22,8 +16,10 @@ class usm_bdu_dcu: usm_bdu_wdl
 			// uniformClass = "usm_bdu_dcu_m";
 		// };
 	// };
-		// class usm_bdu_blk: usm_bdu_wdl
-	// {
+		class usm_bdu_blk: usm_bdu_wdl
+	{
+			model = "\us_military_uniforms\usm_bdusuitpack.p3d";
+			
 		// author = "Delta Hawk";
 		// displayName = "BDUs, trousers/blouse, black";
 		// picture = "\us_military_uniforms\icons\pic_bdu_blk_ca.paa";
@@ -32,9 +28,10 @@ class usm_bdu_dcu: usm_bdu_wdl
 		// {
 			// uniformClass = "usm_bdu_blk";
 		// };
-	// };
-	// class usm_bdu_odg: usm_bdu_wdl
-	// {
+	};
+	class usm_bdu_odg: usm_bdu_wdl
+	{
+		model = "\us_military_uniforms\usm_bdusuitpack.p3d";
 		// author = "Delta Hawk";
 		// displayName = "BDUs, trousers/blouse, OD green";
 		// picture = "\us_military_uniforms\icons\pic_bdu_odg_ca.paa";
@@ -43,9 +40,10 @@ class usm_bdu_dcu: usm_bdu_wdl
 		// {
 			// uniformClass = "usm_bdu_odg";
 		// };
-	// };
-		// class usm_bdu_ubn: usm_bdu_wdl
-	// {
+	};
+		class usm_bdu_ubn: usm_bdu_wdl
+	{
+			model = "\us_military_uniforms\usm_bdusuitpack.p3d";
 		// author = "Delta Hawk";
 		// displayName = "BDUs, trousers/blouse, urban";
 		// picture = "\us_military_uniforms\icons\pic_bdu_ubn_ca.paa";
@@ -54,5 +52,5 @@ class usm_bdu_dcu: usm_bdu_wdl
 		// {
 			// uniformClass = "usm_bdu_ubn";
 		// };
-	// };
+	};
 	
