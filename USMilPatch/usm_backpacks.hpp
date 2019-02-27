@@ -88,4 +88,4 @@ class usm_pack_m5_medic: Bag_Base
 				count = 1;
 			};
 	};
-	
+	};
