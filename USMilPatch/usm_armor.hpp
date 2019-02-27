@@ -1,6 +1,17 @@
 // class HeadgearItem;
 // class VestItem;
-
+class usm_vest_LBE_rm
+{
+	class ItemInfo;
+};
+	class usm_vest_lbv_mg: usm_vest_LBE_rm
+	{
+		
+		class ItemInfo: ItemInfo
+		{
+			containerClass = "Supply240";
+		};
+	};
 
 // class usm_bdu_cap_wdl: ItemCore
 	// {

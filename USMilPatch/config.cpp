@@ -32,7 +32,7 @@ class CfgPatches{
 	};
 		weapons[] = {"usm_bugrepellant","usm_lc2canteen_full","usm_dogtags","usm_earplugs","usm_etool","usm_fielddressing","usm_flashlight","usm_footpowder","usm_militaryID","usm_mre","usm_rifle_cleaning_kit","usm_sleepingbag","usm_bayonet_m7","usm_bayonet_m9"};
 		requiredVersion=1;
-		requiredAddons[]={"us_military_units"};
+		requiredAddons[]={"us_military_units","rhsusf"};
 	};
 	
 	
@@ -54,7 +54,7 @@ class cfgVehicles {
 		
 		#include "usm_marine.hpp"
 		
-		
+		#include "usm_backpacks.hpp"
 	
 	
 	};
