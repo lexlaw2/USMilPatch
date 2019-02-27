@@ -1,11 +1,9 @@
-class Bag_Base
-{
-	class TransportMagazines;
-};
+class Bag_Base;
+
 		
 	class usm_pack_200rnd_556_bandoliers: Bag_Base
 	{
-		blabla= "blabla";
+		
 	
 		class TransportMagazines
 		{
@@ -24,7 +22,7 @@ class Bag_Base
 		{
 			class _xx_CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M
 			{
-				magazine = "";
+				magazine = "rhsusf_100Rnd_762x51";
 				count = 1;
 			};
 		};
