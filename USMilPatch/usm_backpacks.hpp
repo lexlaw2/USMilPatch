@@ -70,6 +70,7 @@ class usm_pack_m5_medic: Bag_Base
 				name = "Medikit";
 				count = 1;
 			};
+		};
 	};
 	class usm_pack_alice;
 		class usm_pack_alice_medic: usm_pack_alice
