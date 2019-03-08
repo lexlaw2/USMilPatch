@@ -1,5 +1,5 @@
 // class HeadgearItem;
-// class VestItem;
+class VestItem;
 class usm_vest_LBE_rm
 {
 	class ItemInfo;
@@ -100,135 +100,135 @@ class usm_vest_LBE_rm
 			// passThrough = 1;
 		// };
 	// };
-	// class usm_vest_pasgt: ItemCore
-	// {
+	class usm_vest_pasgt: ItemCore
+	{
 		
-		// class ItemInfo: VestItem
-		// {
+		class ItemInfo: VestItem
+		{
 			
-			// class HitpointsProtectionInfo
-			// {
-				// class Neck
-				// {
-					// armor = 20;
-					// passThrough = 0.9;
-				// };
-				// class Chest
-				// {
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-				// class Diaphragm
-				// {
-					// hitpointName = "HitDiaphragm";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-				// class Abdomen
-				// {
-					// hitpointName = "HitAbdomen";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-			// };
-		// };
-	// };
-	// class usm_vest_pasgtdes: ItemCore
-	// {
+			class HitpointsProtectionInfo
+			{
+				class Neck
+				{
+					armor = 12;
+					passThrough = 0.9;
+				};
+				class Chest
+				{
+					armor = 28;
+					passThrough = 0.7;
+				};
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 28;
+					passThrough = 0.7;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 28;
+					passThrough = 0.7;
+				};
+			};
+		};
+	};
+	class usm_vest_pasgtdes: ItemCore
+	{
 		
-		// class ItemInfo: VestItem
-		// {
+		class ItemInfo: VestItem
+		{
 			
-			// class HitpointsProtectionInfo
-			// {
-				// class Neck
-				// {
-					// hitpointName = "HitNeck";
-					// armor = 20;
-					// passThrough = 0.9;
-				// };
-				// class Chest
-				// {
-					// hitpointName = "HitChest";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-				// class Diaphragm
-				// {
-					// hitpointName = "HitDiaphragm";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-				// class Abdomen
-				// {
-					// hitpointName = "HitAbdomen";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-			// };
-		// };
-	// };
-	// class usm_vest_pasgtdcu: ItemCore
-	// {
+			class HitpointsProtectionInfo
+			{
+				class Neck
+				{
+					hitpointName = "HitNeck";
+					armor = 12;
+					passThrough = 0.9;
+				};
+				class Chest
+				{
+					hitpointName = "HitChest";
+					armor = 28;
+					passThrough = 0.7;
+				};
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 28;
+					passThrough = 0.7;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 28;
+					passThrough = 0.7;
+				};
+			};
+		};
+	};
+	class usm_vest_pasgtdcu: ItemCore
+	{
 		
-		// class ItemInfo: VestItem
-		// {
+		class ItemInfo: VestItem
+		{
 			
-			// class HitpointsProtectionInfo
-			// {
-				// class Neck
-				// {
-					// hitpointName = "HitNeck";
-					// armor = 20;
-					// passThrough = 0.9;
-				// };
-				// class Chest
-				// {
-					// hitpointName = "HitChest";
-					// armor = 3;
-					// passThrough = 0.9;
-				// };
-				// class Diaphragm
-				// {
-					// hitpointName = "HitDiaphragm";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-				// class Abdomen
-				// {
-					// hitpointName = "HitAbdomen";
-					// armor = 30;
-					// passThrough = 0.9;
-				// };
-			// };
-		// };
-	// };
-	// class usm_vest_rba: ItemCore
-	// {
+			class HitpointsProtectionInfo
+			{
+				class Neck
+				{
+					hitpointName = "HitNeck";
+					armor = 12;
+					passThrough = 0.9;
+				};
+				class Chest
+				{
+					hitpointName = "HitChest";
+					armor = 28;
+					passThrough = 0.7;
+				};
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 28;
+					passThrough = 0.7;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 28;
+					passThrough = 0.7;
+				};
+			};
+		};
+	};
+	class usm_vest_rba: ItemCore
+	{
 		
-		// class ItemInfo: VestItem
-		// {
+		class ItemInfo: VestItem
+		{
 			
-			// class HitpointsProtectionInfo
-			// {
-				// class Chest
-				// {
-					// hitpointName = "HitChest";
-					// armor = 40;
-					// passThrough = 0.2;
-				// };
-				// class Diaphragm
-				// {
-					// hitpointName = "HitDiaphragm";
-					// armor = 40;
-					// passThrough = 0.2;
-				// };
-				// class Abdomen
-				// {
-					// hitpointName = "HitAbdomen";
-					// armor = 40;
-					// passThrough = 0.2;
-				// };
-			// };
-		// };
-	// };
+			class HitpointsProtectionInfo
+			{
+				class Chest
+				{
+					hitpointName = "HitChest";
+					armor = 31;
+					passThrough = 0.2;
+				};
+				class Diaphragm
+				{
+					hitpointName = "HitDiaphragm";
+					armor = 31;
+					passThrough = 0.2;
+				};
+				class Abdomen
+				{
+					hitpointName = "HitAbdomen";
+					armor = 31;
+					passThrough = 0.2;
+				};
+			};
+		};
+	};

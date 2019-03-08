@@ -3,7 +3,7 @@ class Bag_Base;
 		
 	class usm_pack_200rnd_556_bandoliers: Bag_Base
 	{
-		
+		scope = 0;
 	
 		class TransportMagazines
 		{
@@ -17,7 +17,7 @@ class Bag_Base;
 	};
 	class usm_pack_762x51_ammobelts: Bag_Base
 	{
-		
+		scope = 0;
 		class TransportMagazines
 		{
 			class _xx_CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M
@@ -29,7 +29,7 @@ class Bag_Base;
 	};
 	class usm_pack_762x51_bandoliers: Bag_Base
 	{
-		
+		scope = 0;
 		class TransportMagazines
 		{
 			class _xx_CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M
@@ -42,7 +42,7 @@ class Bag_Base;
 	
 class usm_pack_m5_medic: Bag_Base
 	{
-		
+		scope = 0;
 		class TransportMagazines
 		{
 			class _xx_SmokeShellPurple
@@ -73,7 +73,7 @@ class usm_pack_m5_medic: Bag_Base
 	class usm_pack_alice;
 		class usm_pack_alice_medic: usm_pack_alice
 	{
-		
+		scope = 0;
 		class TransportItems
 		{
 			class _xx_usm_fielddressing
