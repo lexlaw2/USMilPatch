@@ -1,15 +1,20 @@
 // class HeadgearItem;
 class VestItem;
-class usm_vest_LBE_rm
-{
-	class ItemInfo;
-};
+	class usm_vest_LBE_rm: ItemCore
+	{
+		
+		class ItemInfo: VestItem
+		{
+				containerClass = "Supply100";
+			
+		};
+	};
 	class usm_vest_lbv_mg: usm_vest_LBE_rm
 	{
 		
 		class ItemInfo: ItemInfo
 		{
-			containerClass = "Supply240";
+			containerClass = "Supply100";
 		};
 	};
 
@@ -90,22 +95,13 @@ class usm_vest_LBE_rm
 			// passThrough = 0.5;
 		// };
 	// };
-	// class usm_vest_LBE_rm: ItemCore
-	// {
-		
-		// class ItemInfo: VestItem
-		// {
-			
-			// armor = 2;
-			// passThrough = 1;
-		// };
-	// };
+
 	class usm_vest_pasgt: ItemCore
 	{
 		
 		class ItemInfo: VestItem
 		{
-			
+			containerClass = "Supply100";
 			class HitpointsProtectionInfo
 			{
 				class Neck
@@ -138,7 +134,7 @@ class usm_vest_LBE_rm
 		
 		class ItemInfo: VestItem
 		{
-			
+			containerClass = "Supply100";
 			class HitpointsProtectionInfo
 			{
 				class Neck
@@ -173,7 +169,7 @@ class usm_vest_LBE_rm
 		
 		class ItemInfo: VestItem
 		{
-			
+			containerClass = "Supply100";
 			class HitpointsProtectionInfo
 			{
 				class Neck
@@ -208,7 +204,7 @@ class usm_vest_LBE_rm
 		
 		class ItemInfo: VestItem
 		{
-			
+			containerClass = "Supply100";
 			class HitpointsProtectionInfo
 			{
 				class Chest

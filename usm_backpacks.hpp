@@ -1,6 +1,14 @@
 class Bag_Base;
 
-		
+	class usm_pack_alice_prc119: Bag_Base
+	{
+			scope = 0;
+	};
+			class usm_pack_alice_prc77: Bag_Base
+				{
+			scope = 0;
+	};
+	
 	class usm_pack_200rnd_556_bandoliers: Bag_Base
 	{
 		scope = 0;
