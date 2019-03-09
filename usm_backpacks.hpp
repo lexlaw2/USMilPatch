@@ -113,11 +113,7 @@ class usm_pack_m5_medic: Bag_Base
 		scope = 2;
 		
 	};
-	class usm_pack_762x51_bandoliers1: usm_pack_762x51_bandoliers
-	{
-		scope = 2;
-		
-	};
+	
 	
 class usm_pack_m5_medic1: usm_pack_m5_medic
 	{
