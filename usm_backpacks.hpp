@@ -96,28 +96,34 @@ class usm_pack_m5_medic: Bag_Base
 			};
 	};
 	};
-		// class usm_pack_alice_prc119_1: usm_pack_alice_prc119
-	// {
-			// scope = 2;
-	// };
+class usm_pack_alice_prc119_1: usm_pack_alice_prc119
+	{
+			scope = 2;
+			class TransportMagazines {};
+	};
 			
-	// class usm_pack_200rnd_556_bandoliers1: usm_pack_200rnd_556_bandoliers
-	// {
-		// scope = 2;
+class usm_pack_200rnd_556_bandoliers1: usm_pack_200rnd_556_bandoliers
+	{
+		scope = 2;
 	
-		// displayName = "Bandolier, machine gunner";
+		displayName = "Bandolier, machine gunner";
+					class TransportMagazines {};
+
 		
-	// };
-	// class usm_pack_762x51_ammobelts1: usm_pack_762x51_ammobelts
-	// {
-		// scope = 2;
+	};
+class usm_pack_762x51_ammobelts1: usm_pack_762x51_ammobelts
+	{
+		scope = 2;
+					class TransportMagazines {};
+
 		
-	// };
+	};
 	
 	
-// class usm_pack_m5_medic1: usm_pack_m5_medic
-	// {
-		// scope = 0;
-	
-	// };
+class usm_pack_m5_medic1: usm_pack_m5_medic
+	{
+		scope = 2;
+		class TransportMagazines {};
+		class TransportItems{};
+	};
 	
