@@ -9,6 +9,10 @@ class Bag_Base;
 			scope = 0;
 	};
 	
+	class usm_pack_st138_prc77: Bag_Base
+	{
+		scope = 0;
+	};
 	class usm_pack_200rnd_556_bandoliers: Bag_Base
 	{
 		scope = 0;
@@ -126,4 +130,8 @@ class usm_pack_m5_medic1: usm_pack_m5_medic
 		class TransportMagazines {};
 		class TransportItems{};
 	};
-	
+	class usm_pack_st138_prc77_1: usm_pack_st138_prc77
+	{
+		scope = 2;
+		class TransportMagazines {};
+	};
